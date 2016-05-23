@@ -1,0 +1,27 @@
+{
+  "name": "jszik",
+  "version": "0.0.1",
+  "author": "Brice Colucci <brice.colucci@gmail.com>",
+  "description": "A lib that make music with your code.",
+  "license": "MIT",
+  "main": "jszik.js",
+  "keywords": [
+    "make",
+    "play",
+    "music",
+    "sound",
+    "code",
+    "program"
+  ],
+  "dependencies": {
+    "jspector": "0.0.1"
+  },
+  "homepage": "https://github.com/bcolucci/jszik",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcolucci/jszik.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bcolucci/jszik/issues"
+  }
+}
